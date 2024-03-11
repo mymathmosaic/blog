@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://mymathmosaic.github.io/',
-  pathPrefix: '/',
+  pathPrefix: '/mymathmosaic',
   title: 'Arthur K.',
   subtitle: 'Personal website and blog',
   copyright: `Powered by <a
