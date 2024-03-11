@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://arthurkhlghatyan.github.io',
+  url: 'https://mymathmosaic.github.io/',
   pathPrefix: '/',
   title: 'Arthur K.',
   subtitle: 'Personal website and blog',
@@ -37,7 +37,7 @@ module.exports = {
         <a
           rel="noopener noreferrer"
           target="_blank"
-          href="https://github.com/arthurkhlghatyan/ideal-eureka">
+          href="https://github.com/mymathmosaic/ideal-eureka">
           Rust
         </a>`,
       'Right! changes when you click on it',
@@ -49,13 +49,13 @@ module.exports = {
       'And again...',
     ],
     contacts: {
-      email: 'arthur.khlghatyan@gmail.com',
+      email: 'my.math.mosaic@gmail.com',
       facebook: 'arthur.khlghatyan.1',
-      telegram: 'arthurkhlghatyan',
-      twitter: '___arthurk',
-      github: 'arthurkhlghatyan',
+      //telegram: 'arthurkhlghatyan',
+      //twitter: '___arthurk',
+      github: 'mymathmosaic',
       linkedin: 'arthurkhlghatyan',
-      angelist: 'arthurkhlghatyan'
+      //angelist: 'arthurkhlghatyan'
     }
   }
 };

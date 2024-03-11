@@ -16,8 +16,8 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/arthurkhlghatyan/arthurkhlghatyan.github.io",
-  "author": "Arthur Khlghatyan <arthur.khlghatyan@gmail.com>",
+  "repository": "https://github.com/mymathmosaic/mymathmosaic.github.io",
+  "author": "Math Mosaic <my.math.mosaic@gmail.com>",
   "license": "MIT",
   "keywords": [
     "gatsby",

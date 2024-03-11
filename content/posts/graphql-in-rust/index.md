@@ -150,4 +150,4 @@ The main goal of this article was to show some abilities of the rust language in
 
 While being an author of the library we used I urge you to also check other libraries written for this topic (such as [this](https://github.com/graphql-rust/graphql-client)) because you will probably need more advanced features in the future as your project grows.
 
-In case you'll have some opinions or feature requests about the library feel free to open an [issue](https://github.com/arthurkhlghatyan/gql-client-rs/issues) or reach me out in community [chat](https://t.me/rustarmenia).  
+In case you'll have some opinions or feature requests about the library feel free to open an [issue](https://github.com/mymathmosaic/gql-client-rs/issues) or reach me out in community [chat](https://t.me/rustarmenia).  

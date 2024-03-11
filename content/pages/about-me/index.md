@@ -23,7 +23,7 @@ Though [recreational vehicles](https://en.wikipedia.org/wiki/Recreational_vehicl
 Of course, this kind of lifestyle also has some disadvantages but I managed to find solutions for those mostly by focusing on results. That's something to keep you motivated!
 
 Already, over 4 years(at the time of writing) I'm working on different projects, building MVPs, and learning the technologies I'm excited about. (I'll get a bit lazy here and ask you to check my [LinkedIn](https://www.linkedin.com/in/arthurkhlghatyan) to see my experience and skills in detail).
-Not to mention that published a piece of [open source](https://github.com/arthurkhlghatyan).
+Not to mention that published a piece of [open source](https://github.com/mymathmosaic).
 
 You may ask yourself - Is this guy the type of programmers who code 24/7 - (the time spent on sleeping + eating)? The answer is no. The thing that I like most is hanging out with friends in a nice lightsome cafe, also like to drink beer (Though was fun of wine a while ago :)).
 
