@@ -1,48 +1,47 @@
-@import "src/assets/scss/variables";
-@import "src/assets/scss/mixins";
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
 
 .contacts {
   @include margin-bottom(1);
 
-  .list {
+  &__list {
     display: flex;
     flex-flow: row wrap;
     flex-grow: 0;
     flex-shrink: 0;
     list-style: none;
-    max-width: 165px;
-    @include padding-equal(0);
-    @include margin(0.5, 0);
+    padding: 0;
+    margin: 10px -3px;
+    width: 140px;
 
-    .item {
+    &-item {
+      padding: 0;
+      margin: 4px;
+      display: flex;
       align-content: center;
       align-items: center;
-      border: 1px solid var(--color-contacts-border);
-      border-radius: 50%;
-      display: flex;
-      height: $button-height;
       justify-content: center;
-      line-height: $button-height;
-      text-align: center;
+      height: $button-height;
       width: $button-height;
-      @include padding-equal(0);
-      @include margin-equal(0.25);
+      line-height: $button-height;
+      border-radius: 50%;
+      text-align: center;
+      border: 1px solid $color-gray-bg;
 
-      &:nth-child(3n + 1) {
-        @include margin-left(0);
-      }
-
-      .link {
+      &-link {
         border: 0;
-        color: var(--color-typographic-base-font);
-        cursor: pointer;
         display: flex;
-
+        color: $color-base;
+  
         &:hover,
         &:focus {
-          color: var(--color-typographic-link-p-font);
+          color: $color-primary;
         }
+
       }
+
     }
+
   }
+
 }

@@ -1,8 +1,9 @@
-@import "../../../assets/scss/variables";
-@import "../../../assets/scss/mixins";
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
 
 .meta {
-  .date {
+  &__date {
     font-style: italic;
   }
+
 }
